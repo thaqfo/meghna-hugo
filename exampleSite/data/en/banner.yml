@@ -1,12 +1,14 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image: images/backgrounds/hero-area.jpg
+  icon: ''
+  title: Inspiring Choices
+  content: We're humanizing the internet! Japan's leading provider of AI-powered internet
+    Personalization solutions, we enable clients to learn about and build long-term
+    trust-based relationship with consumers.
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Explore Us
+    link: "#services"
