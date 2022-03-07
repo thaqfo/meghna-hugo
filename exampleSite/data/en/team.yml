@@ -3,12 +3,13 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: Abul Mal Muhit
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
+  - name: Tom Foley
+    image_webp: images/team/bw.webp
+    image: images/team/bw.jpg
     designation: CEO/Founder
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: From Boston, Tom has been working  in AI since the 1980's - first at
+      Digital Equipment Corporation. He launched Gensym's subsidiary in Japan in 1996
+      and founded Silver Egg in 1998 - taking it public in 2016.
     social:
     - icon: ti-facebook
       link: "#"
