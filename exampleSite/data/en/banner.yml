@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/person01.png
+  bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Inspiring Choices
   content: We're humanizing the internet! As Japan's leading provider of AI-powered
