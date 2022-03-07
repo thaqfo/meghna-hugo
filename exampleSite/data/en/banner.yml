@@ -10,5 +10,5 @@ banner:
     trust-based relationship with consumers.
   button:
     enable: true
-    label: Explore Us
+    label: Get Personal
     link: "#services"
