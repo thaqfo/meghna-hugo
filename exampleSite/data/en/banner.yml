@@ -5,9 +5,9 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Inspiring Choices
-  content: We're humanizing the internet! Japan's leading provider of AI-powered internet
-    Personalization solutions, we enable our clients to learn about their customers
-    and build long-term trust-based relationships with them.
+  content: We're humanizing the internet! As Japan's leading provider of AI-powered
+    internet Personalization solutions, we enable our clients to delight customers
+    with compelling online experiences.
   button:
     enable: true
     label: Get Personal
