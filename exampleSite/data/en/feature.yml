@@ -4,9 +4,9 @@ feature:
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
   title: The AigentX Personalization Platform.
-  content: AigentX bundles a unique set of capabilities that enable us to tailor unique
-    personalization solutions for our clients... solutions that proactively inspire
-    activity and loyalty of each and every customer.
+  content: AigentX bundles everything you need for one-to-one marketing and provides
+    the flexibility you need to do so in ways that set your business apart from the
+    competition.
   feature_item:
   - title: Recommendations
     icon: ti-world
