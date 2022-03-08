@@ -6,7 +6,7 @@ contact:
   content: Silver Egg is headquartered in Osaka and has a sales office in Tokyo.
   contact_list:
   - icon: ti-location-pin
-    info: Okamura Akasaka Bldg. 7F,<br>2-13-1 Nagato-cho, Choyoda-ku<br>Tokyo 100-0014,
+    info: Okamura Akasaka Bldg. 7F,\n2-13-1 Nagato-cho, Choyoda-ku\nTokyo 100-0014,
       JAPAN
   - icon: ti-mobile
     info: 'Phone: +81 03-5357-1255'
