@@ -20,7 +20,7 @@ feature:
     icon: ti-stats-up
     content: Selectively reach out and activate customers across multiple channels
       with Recogazo mail and SMS
-  - title: Easy Customization
+  - title: AB Testing
     icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Segment customers and compare effectiveness different marketing treatments,
+      automatically optimizing funnel performance
