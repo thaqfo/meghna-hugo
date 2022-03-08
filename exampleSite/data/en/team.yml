@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Executive Team
   team_member:
   - name: Tom Foley
     image_webp: images/team/team-1.webp
