@@ -12,10 +12,10 @@ feature:
     icon: ti-world
     content: 'Surface long-tail items and catalyze sales with real-time, personalized
       product recommendations '
-  - title: Scenario Targeting
+  - title: Targeted Offers
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Put customer profiles to work by selectively targeting customer offers
+      and managing campaign pipelines
   - title: Message Marketing
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
