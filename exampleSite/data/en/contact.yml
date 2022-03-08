@@ -3,9 +3,7 @@ contact:
   enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content: Silver Egg is headquartered in Osaka and has a sales office in Tokyo.
   contact_list:
   - icon: ti-location-pin
     info: Okamura Akasaka Bldg. 7F, 2-13-1 Nagato-cho, Choyoda-ku Tokyo 100-0014,
