@@ -4,8 +4,9 @@ about:
   title: About Us
   about_item:
   - icon: ti-ruler-pencil
-    title: We're Scientific
-    content: We take pride in being data-driven and scientific method.
+    title: Data Driven
+    content: We take pride in applying scientific methods and following the data wherever
+      it leads.
   - icon: ti-cup
     title: We're Professional
     content: We're trusted by Japan's biggest and most demanding sites because we
