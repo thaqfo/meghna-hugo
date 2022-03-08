@@ -4,9 +4,9 @@ feature:
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
   title: Personalization Platform.
-  content: Our AigentX Personalization Platform enables us to tailor unique personalization
-    solutions for our clients... solutions that proactively inspire activity and loyalty
-    of each and every customer.
+  content: Our AigentX Personalization Platform bundles capabilities that enable us
+    to tailor unique personalization solutions for our clients... solutions that proactively
+    inspire activity and loyalty of each and every customer.
   feature_item:
   - title: Real-time Recommendations
     icon: ti-world
