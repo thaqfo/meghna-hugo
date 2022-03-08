@@ -7,9 +7,9 @@ team:
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
     designation: CEO/Founder
-    content: Originally from Boston, Tom began working in AI at Digital Equipment
-      in the 1980's.  He created ReThink and launched Gensym Japan in 1996 before
-      founding Silver Egg in 1998.
+    content: Tom began began as an engineer and AI consultant for Digital in the 1980's.  He
+      later joined Gensym, created ReThink and launched their Japanese subsidiary.  He
+      founded Silver Egg in 1998 and took it public in 2016.
     social:
     - icon: ti-facebook
       link: "#"
