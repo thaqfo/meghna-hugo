@@ -4,8 +4,8 @@ feature:
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
   title: The AigentX Personalization Platform.
-  content: AigentX bundles the tools you need for one-to-one marketing with  the flexibility
-    you need to set your business apart from the competition.
+  content: AigentX bundles all the tools you need for one-to-one marketing with  the
+    flexibility you need to set your business apart from the competition.
   feature_item:
   - title: Recommendations
     icon: ti-world
